@@ -6,4 +6,4 @@
 
 รันคอมไพล์ TypeScript : npm run build
 
-npm test
+เริ่มทดสอบ : npm test
